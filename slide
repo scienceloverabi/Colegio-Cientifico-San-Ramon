@@ -1,7 +1,7 @@
 .prueba{background-color: coral;}
 
 .prueba2{
-    background-image: url(../img/lab2.png);
+    background-image: url(../img/banner.png);
 }
 .slider_area{
     .single_slider{
