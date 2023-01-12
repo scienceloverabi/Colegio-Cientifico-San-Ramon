@@ -1,7 +1,5 @@
-.prueba{
- background-image: url(lab1.png");
- background-color: #cccccc;
-}
+.prueba{background-color: coral;}
+
 .prueba2{
     background-image: url(../img/lab2.png);
 }
